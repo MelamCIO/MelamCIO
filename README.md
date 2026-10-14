@@ -11,6 +11,13 @@
 <picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/cart-python.png"><img src="./assets/cart-python.gif" width="31%" alt="Cartucho Python: logo do Python em pixel art — serpentes azul e amarela entrelaçadas"></picture>
 <picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/cart-typescript.png"><img src="./assets/cart-typescript.gif" width="31%" alt="Cartucho TypeScript: placa azul TS diante de um sol synthwave"></picture>
 
+<img src="./assets/monitor.png" width="100%" alt="SIGNAL MONITOR">
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/commit-feed.png">
+  <img src="./assets/commit-feed.gif" width="100%" alt="TV de tubo em pixel art exibindo um gráfico de contribuições fictício (sinal simulado, não são dados reais do GitHub). A TV troca de canal com chuvisco: CH 01 COMMIT FEED acende semanas de commits inventados, CH 02 SIGNAL ID escreve MELAMCIO nas células e CH 03 HEARTBEAT mostra um batimento rolando pela grade.">
+</picture>
+
 <img src="./assets/end-of-signal.png" width="100%" alt="END OF SIGNAL">
 
 </div>
